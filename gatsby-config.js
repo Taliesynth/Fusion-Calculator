@@ -16,5 +16,6 @@ module.exports = {
         path: `${__dirname}/compendium`,
       }
     },
+    "gatsby-plugin-mdx",
   ],
 }
